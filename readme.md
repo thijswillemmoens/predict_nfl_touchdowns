@@ -10,4 +10,4 @@ This is my repository where I try to create a Predictive Model in Python for NFL
 
 
 ### Data
-The data source is from: [nflverse](https://github.com/nflverse/nflverse-data/releases/tag/pbp)
+The data source is from: [nflverse](https://github.com/nflverse/nflverse-data/releases/tag/pbp).
